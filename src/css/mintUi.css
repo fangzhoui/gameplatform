@@ -1,0 +1,11 @@
+.mint-navbar .mint-tab-item.is-selected{
+	color: #34dbbf;
+	border-bottom: 3px solid #34dbbf;
+	/*margin-bottom: 0;*/
+}
+.mint-navbar .mint-tab-item.is-selected .mint-tab-item-label{
+	color: #34dbbf;
+}
+.mint-navbar .mint-tab-item{
+	padding: 10px 0px;
+}
